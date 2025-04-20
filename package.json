@@ -1,0 +1,23 @@
+{
+  "name": "node_shailendra",
+  "version": "1.0.0",
+  "description": "Word Best node js and express js",
+  "homepage": "https://github.com/shailendra0074/event_modules#readme",
+  "bugs": {
+    "url": "https://github.com/shailendra0074/event_modules/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shailendra0074/event_modules.git"
+  },
+  "license": "ISC",
+  "author": "shailendra",
+  "type": "commonjs",
+  "main": "even_module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
